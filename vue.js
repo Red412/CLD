@@ -57,36 +57,39 @@ const app = {
                     title: 'Из чего формируется конечная стоимость проекта?',
                     text: 'Являясь всего лишь частью общей картины, непосредственные участники технического прогресса призывают нас к новым свершениям, которые, в свою очередь, должны быть своевременно верифицированы. Но высококачественный прототип будущего проекта является качественно новой ступенью первоочередных требований. А ещё некоторые особенности внутренней политики, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут объявлены нарушающими общечеловеческие нормы этики и морали. И нет сомнений, что явные признаки победы институционализации призывают нас к новым свершениям, которые, в свою очередь, должны быть указаны как претенденты на роль ключевых факторов. Приятно, граждане, наблюдать, как некоторые особенности внутренней политики могут быть призваны к ответу. Явные признаки победы институционализации набирают популярность среди определенных слоев населения, а значит, должны быть объединены в целые кластеры себе подобных. Банальные, но неопровержимые выводы, а также многие известные личности призывают нас к новым свершениям, которые, в свою очередь, должны быть представлены в исключительно положительном свете.',
                     imgPlus: 'img/+х.svg',
-                    imgMinus: 'img/-х.svg'
                 },
                 {
                     title: 'У меня есть свой проект. Сможем ли мы его доработать / реализовать?',
                     text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel ipsum sunt cumque architecto eveniet quod atque. Quaerat nisi ipsum quos vel nesciunt! Officiis numquam molestiae rerum ipsa nostrum maiores aut! Incidunt cum facilis optio eum, totam soluta nobis? Libero cumque mollitia assumenda non necessitatibus est, cupiditate aliquid deleniti ad nobis! Molestias maiores recusandae non reiciendis nobis optio, accusantium sapiente pariatur minus. Aut tempore, voluptatibus quo voluptates et aliquam unde. Quibusdam deserunt blanditiis, alias temporibus numquam odit tenetur provident? Nam eveniet temporibus adipisci rerum iure quod saepe at debitis. Illo harum architecto aliquam ducimus placeat distinctio cum qui, corrupti natus voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel ipsum sunt cumque architecto eveniet quod atque. Quaerat nisi ipsum quos vel nesciunt! Officiis numquam molestiae rerum ipsa nostrum maiores aut! Incidunt cum facilis optio eum, totam soluta nobis? Libero cumque mollitia assumenda non necessitatibus est, cupiditate aliquid deleniti ad nobis! Molestias maiores recusandae non reiciendis nobis optio, accusantium sapiente pariatur minus. Aut tempore, voluptatibus quo voluptates et aliquam unde. Quibusdam deserunt blanditiis, alias temporibus numquam odit tenetur provident? Nam eveniet temporibus adipisci rerum iure quod saepe at debitis. Illo harum architecto aliquam ducimus placeat distinctio cum qui, corrupti natus voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit.',
                     imgPlus: 'img/+х.svg',
-                    imgMinus: 'img/-х.svg'
                 },
                 {
                     title: 'Я выбираю между разными компаниями. В чём ваше отличие?',
                     text: 'Являясь всего лишь частью общей картины, непосредственные участники технического прогресса призывают нас к новым свершениям, которые, в свою очередь, должны быть своевременно верифицированы. Но высококачественный прототип будущего проекта является качественно новой ступенью первоочередных требований. А ещё некоторые особенности внутренней политики, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут объявлены нарушающими общечеловеческие нормы этики и морали. И нет сомнений, что явные признаки победы институционализации призывают нас к новым свершениям, которые, в свою очередь, должны быть указаны как претенденты на роль ключевых факторов. Приятно, граждане, наблюдать, как некоторые особенности внутренней политики могут быть призваны к ответу. Явные признаки победы институционализации набирают популярность среди определенных слоев населения, а значит, должны быть объединены в целые кластеры себе подобных. Банальные, но неопровержимые выводы, а также многие известные личности призывают нас к новым свершениям, которые, в свою очередь, должны быть представлены в исключительно положительном свете.',
                     imgPlus: 'img/+х.svg',
-                    imgMinus: 'img/-х.svg'
                 },
                 {
                     title: 'Могу ли я делегировать вам работу / согласование с подрядчиком / организацией? ',
                     text: 'Являясь всего лишь частью общей картины, непосредственные участники технического прогресса призывают нас к новым свершениям, которые, в свою очередь, должны быть своевременно верифицированы. Но высококачественный прототип будущего проекта является качественно новой ступенью первоочередных требований. А ещё некоторые особенности внутренней политики, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут объявлены нарушающими общечеловеческие нормы этики и морали. И нет сомнений, что явные признаки победы институционализации призывают нас к новым свершениям, которые, в свою очередь, должны быть указаны как претенденты на роль ключевых факторов. Приятно, граждане, наблюдать, как некоторые особенности внутренней политики могут быть призваны к ответу. Явные признаки победы институционализации набирают популярность среди определенных слоев населения, а значит, должны быть объединены в целые кластеры себе подобных. Банальные, но неопровержимые выводы, а также многие известные личности призывают нас к новым свершениям, которые, в свою очередь, должны быть представлены в исключительно положительном свете.',
                     imgPlus: 'img/+х.svg',
-                    imgMinus: 'img/-х.svg'
                 },
                 {
                     title: 'Могу ли я вернуть деньги на каком-либо из этапов работ?',
                     text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel ipsum sunt cumque architecto eveniet quod atque. Quaerat nisi ipsum quos vel nesciunt! Officiis numquam molestiae rerum ipsa nostrum maiores aut! Incidunt cum facilis optio eum, totam soluta nobis? Libero cumque mollitia assumenda non necessitatibus est, cupiditate aliquid deleniti ad nobis! Molestias maiores recusandae non reiciendis nobis optio, accusantium sapiente pariatur minus. Aut tempore, voluptatibus quo voluptates et aliquam unde. Quibusdam deserunt blanditiis, alias temporibus numquam odit tenetur provident? Nam eveniet temporibus adipisci rerum iure quod saepe at debitis. Illo harum architecto aliquam ducimus placeat distinctio cum qui, corrupti natus voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel ipsum sunt cumque architecto eveniet quod atque. Quaerat nisi ipsum quos vel nesciunt! Officiis numquam molestiae rerum ipsa nostrum maiores aut! Incidunt cum facilis optio eum, totam soluta nobis? Libero cumque mollitia assumenda non necessitatibus est, cupiditate aliquid deleniti ad nobis! Molestias maiores recusandae non reiciendis nobis optio, accusantium sapiente pariatur minus.',
                     imgPlus: 'img/+х.svg',
-                    imgMinus: 'img/-х.svg'
                 },
             ]
         }
     },
     methods: {
+        isOpen(id) { 
+            if(this.activeAccordion === id) {
+                this.activeAccordion = null; 
+            } else {
+                this.activeAccordion = id;
+            }
+            
+        },
         start(el) {
             el.style.height = el.scrollHeight + "px";
         },
