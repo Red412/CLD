@@ -87,6 +87,13 @@ ul {
     font-weight: 700;
     line-height: 30px;
     color: #333333;
+    transition: color .5s;
+}
+.head_burger_link:hover {
+    color: #FF9900;
+}
+.head_burger_link:active {
+    color: #E1670E;
 }
 .head-nav {
     display: flex;
