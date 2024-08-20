@@ -874,7 +874,15 @@ ul {
         line-height: 14.63px;
         text-align: center;
         color: #FF9900;
-        border: 2px solid #FF9900
+        border: 2px solid #FF9900;
+        transition: background-color .5s, color .5s;
+    }
+    .min_btn:hover {
+        background-color: #FF9900;
+        color: #FFFFFF;
+    }
+    .min_btn:active {
+        background-color: #E1670E;
     }
     .card {
         border: none;
