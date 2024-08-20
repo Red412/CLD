@@ -1005,7 +1005,13 @@ ul {
         font-weight: 700;
         line-height: 14.63px;
         text-align: center;
-
+        transition: background-color .5s;
+    }
+    .form_btn:hover {
+        background-color: #F7B045;
+    }
+    .form_btn:active {
+        background-color: #E1670E;
     }
     .checkmark {
         top: 9px
